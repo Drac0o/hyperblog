@@ -1,2 +1,5 @@
 este archivo generado por vs code
-primer ejercicio
+primer ejercicio de prueba de comandos
+
+pasé por aquí
+
