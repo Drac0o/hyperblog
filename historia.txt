@@ -1,0 +1,2 @@
+este archivo generado por vs code
+primer ejercicio
